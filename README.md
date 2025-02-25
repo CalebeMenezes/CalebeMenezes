@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C# / Python / React / R
+- 🌱 I’m currently learning Python / cybersecurity
 - 📫 How to reach me: calebe.bezerra14@gmail.com
 
 <div align="center">
