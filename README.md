@@ -3,7 +3,6 @@
 
  Olá! Sou um entusiasta da segurança cibersegurança, estou em busca da minha primeira oportunidade na área, sou formado em Análise e Desenvolvimento de Sistemas pela UNIP e atualmente curso segurança cibernética na EBAC. 👋
 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python / cybersecurity
 - 📫 How to reach me: www.linkedin.com/in/calebe-menezes-408446217
