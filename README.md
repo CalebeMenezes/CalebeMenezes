@@ -1,9 +1,10 @@
-### Hello!, I am Calebe Menezes a cybersecurity enthusiast, i'm looking for my first opportunity in the area👋
+# Calebe Menezes
+### Hello!, I am a cybersecurity enthusiast, i'm looking for my first opportunity in the area👋
 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python / cybersecurity
-- 📫 How to reach me: calebe.bezerra14@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/calebe-menezes-408446217
 
 <div align="center">
   <a href="https://github.com/CalebeMenezes">
