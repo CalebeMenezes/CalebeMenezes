@@ -1,7 +1,7 @@
 # Calebe Menezes
- Hello!, I am a cybersecurity enthusiast, i'm looking for my first opportunity in the area, graduated in System Analysis and Development from UNIP and currently studying cybersecurity at EBAC.👋
+ Cybersecurity enthusiast, I am looking for my first opportunity in the field, I have a degree in Systems Analysis and Development from UNIP and a degree in cybersecurity from EBAC.👋
 
- Olá! Sou um entusiasta da segurança cibersegurança, estou em busca da minha primeira oportunidade na área, sou formado em Análise e Desenvolvimento de Sistemas pela UNIP e atualmente curso segurança cibernética na EBAC. 👋
+ Entusiasta de segurança cibernética, estou em busca de minha primeira oportunidade na área, sou formado em Análise e Desenvolvimento de Sistemas pela UNIP e formado em cybersegurnaça na EBAC. 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python / cybersecurity
